@@ -3,12 +3,12 @@ entries:
   database:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-02-06T04:38:31.227674977Z"
+    created: "2025-02-24T07:45:53.882136668Z"
     description: Helm chart for Kubernetes
-    digest: 00422d5ddb547dce62c2c872d1ec0e0ecd58c5e01f2284f52c3717de68889d91
+    digest: 1120b011e0b23042b50e6ab6416d04022782537ad1e9b092af7e72ec8465bd7d
     name: database
     type: application
     urls:
-    - database-0.1.0.tgz
+    - regiantnewdatabase/database-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-06T04:38:31.227232835Z"
+generated: "2025-02-24T07:45:53.880376582Z"
